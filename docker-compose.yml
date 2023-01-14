@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+    command: npm start
+  redis:
+    image: redis:alpine
+    ports:
+      - '6379:6379'

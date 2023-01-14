@@ -1,0 +1,14 @@
+https://www.onfocus.com/2016/10/6743/scraping-together-rss-with-node-js
+https://daily-dev-tips.com/posts/rss-reader-in-node-js/
+https://stackoverflow.com/questions/33134156/how-can-i-retrive-url-from-xml-by-node-js
+https://stackoverflow.com/questions/45478293/username-and-password-not-accepted-when-using-nodemailer
+https://www.scrapingbee.com/blog/web-scraping-javascript/
+https://brightdata.com/blog/how-tos/web-scraping-with-node-js
+https://www.zenrows.com/blog/web-scraping-cheerio#what-is-cheerio
+
+Redis
+https://www.geeksforgeeks.org/how-to-establish-connection-between-node-js-ans-redis/
+https://collabnix.com/dockerizing-a-nodejs-express-redis-with-nginx-proxy-using-docker-compose/
+https://github.com/HugoDF/express-redis-docker
+https://medium.com/geekculture/using-redis-with-docker-and-nodejs-express-71dccd495fd3
+https://nabeelvalley.co.za/docs/javascript/redis-from-express/
